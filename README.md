@@ -65,6 +65,7 @@
   - [FlexJobs](https://www.flexjobs.com/)
   - [devjobscanner](https://www.devjobsscanner.com/)
   - [Google Careers](https://careers.google.com/jobs/results/)
+  - [Remote Job Assistant](https://remotejobassistant.com/) | Remote jobs for non-technical workers |
 - [By country](#bycountry)
   - [US only](#usonly)
   - [Europe](#europe)
