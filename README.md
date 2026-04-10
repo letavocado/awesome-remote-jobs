@@ -192,6 +192,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                         |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | [ML-Jobs](https://ml-jobs.com/)                                                                          | Find your next Machine Learning Job |
+| [Agentic Engineering Jobs](https://agentic-engineering-jobs.com)                                          | Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post and browse. |
 
 ## Design
 
