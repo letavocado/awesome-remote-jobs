@@ -193,6 +193,7 @@
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | [ML-Jobs](https://ml-jobs.com/)                                                                          | Find your next Machine Learning Job |
 | [Agentic Engineering Jobs](https://agentic-engineering-jobs.com)                                          | Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post and browse. |
+| [AI Dev Jobs](https://aidevboard.com)                                                                    | Free jobs board aggregating 5,400+ AI/ML/LLM roles from 55+ ATS sources. MCP server + REST API + RSS for agents. |
 
 ## Design
 
