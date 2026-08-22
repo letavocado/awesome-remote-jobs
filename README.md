@@ -194,6 +194,7 @@
 | [ML-Jobs](https://ml-jobs.com/)                                                                          | Find your next Machine Learning Job |
 | [Agentic Engineering Jobs](https://agentic-engineering-jobs.com)                                          | Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post and browse. |
 | [AI Dev Jobs](https://aidevboard.com)                                                                    | Free jobs board aggregating 5,400+ AI/ML/LLM roles from 55+ ATS sources. MCP server + REST API + RSS for agents. |
+| [First Look Jobs](https://firstlookjobs.com)                                                             | Directory of remote AI training and domain-expert jobs from six referral programs (Mercor, micro1, Turing, Alignerr, Contra, Handshake AI). Advertised pay, weekly hours and country eligibility parsed per listing. |
 
 ## Design
 
