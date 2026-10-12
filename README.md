@@ -236,3 +236,4 @@
 | [WeWorkFromHome](https://weworkfromhome.com) | Remote job board aggregating listings daily from company Greenhouse, Lever, and Ashby boards. Free for job seekers. |
 | [Real Job Work From Home](https://realjobworkfromhome.com/) | Free remote job browsing without an account, with keyword, employment-type and salary-listed filters and employer application links. |
 | [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote filters. |
+| [Remotejobify](https://remotejobify.app/) | Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account. |
