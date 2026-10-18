@@ -196,6 +196,7 @@
 | [AI Dev Jobs](https://aidevboard.com)                                                                    | Free jobs board aggregating 5,400+ AI/ML/LLM roles from 55+ ATS sources. MCP server + REST API + RSS for agents. |
 | [First Look Jobs](https://firstlookjobs.com)                                                             | Directory of remote AI training and domain-expert jobs from six referral programs (Mercor, micro1, Turing, Alignerr, Contra, Handshake AI). Advertised pay, weekly hours and country eligibility parsed per listing. |
 | [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) | Remote and at-home robot-training work (video capture for AI training, remote teleoperation, data collection) from robotics and physical-AI employers, sorted by the countries each accepts, with the pay each posts. |
+| [AI Trainer Jobs](https://aitrainer.jobs/) | Remote AI training jobs (data annotation, RLHF, prompt and model evaluation) aggregated from 60+ platforms, updated hourly. |
 
 ## Design
 
