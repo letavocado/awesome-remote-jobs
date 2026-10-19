@@ -197,6 +197,7 @@
 | [First Look Jobs](https://firstlookjobs.com)                                                             | Directory of remote AI training and domain-expert jobs from six referral programs (Mercor, micro1, Turing, Alignerr, Contra, Handshake AI). Advertised pay, weekly hours and country eligibility parsed per listing. |
 | [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) | Remote and at-home robot-training work (video capture for AI training, remote teleoperation, data collection) from robotics and physical-AI employers, sorted by the countries each accepts, with the pay each posts. |
 | [AI Trainer Jobs](https://aitrainer.jobs/) | Remote AI training jobs (data annotation, RLHF, prompt and model evaluation) aggregated from 60+ platforms, updated hourly. |
+| [Level](https://jobsbylevel.com/remote-ai-jobs) | Remote tech jobs read from company ATS career pages, each rated 0 to 4 for how much AI the work involves. Filters for roles that build or work on AI, with posted salaries. |
 
 ## Design
 
@@ -237,3 +238,4 @@
 | [WeWorkFromHome](https://weworkfromhome.com) | Remote job board aggregating listings daily from company Greenhouse, Lever, and Ashby boards. Free for job seekers. |
 | [Real Job Work From Home](https://realjobworkfromhome.com/) | Free remote job browsing without an account, with keyword, employment-type and salary-listed filters and employer application links. |
 | [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote filters. |
+| [Remotejobify](https://remotejobify.app/) | Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account. |
