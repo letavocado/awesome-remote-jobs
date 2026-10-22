@@ -238,3 +238,4 @@
 | [Real Job Work From Home](https://realjobworkfromhome.com/) | Free remote job browsing without an account, with keyword, employment-type and salary-listed filters and employer application links. |
 | [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote filters. |
 | [Remotejobify](https://remotejobify.app/) | Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account. |
+| [RemoteHunt](https://remotehunt.app/jobs) | Remote jobs listed by the countries they can hire in, from 2,400+ employer career pages. Browsing needs no account; a free account scores each job 0-100 against your resume. |
