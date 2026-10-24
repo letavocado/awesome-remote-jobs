@@ -238,3 +238,4 @@
 | [Real Job Work From Home](https://realjobworkfromhome.com/) | Free remote job browsing without an account, with keyword, employment-type and salary-listed filters and employer application links. |
 | [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote filters. |
 | [Remotejobify](https://remotejobify.app/) | Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account. |
+| [Get HN Jobs](https://gethnjobs.com/remote-hacker-news-jobs) | Remote jobs from Hacker News "Who is hiring?" threads, with stack, role and location filters, links to the original HN posts and daily email alerts. Free, no account needed to search. |
