@@ -238,3 +238,4 @@
 | [Real Job Work From Home](https://realjobworkfromhome.com/) | Free remote job browsing without an account, with keyword, employment-type and salary-listed filters and employer application links. |
 | [Jaabz](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote filters. |
 | [Remotejobify](https://remotejobify.app/) | Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account. |
+| [Remote Tech Jobs](https://github.com/landedjobs/remote-tech-jobs) | Free list of remote software, AI, data, product and design roles, with each role's country limits shown. Refreshed every 2 days. |
