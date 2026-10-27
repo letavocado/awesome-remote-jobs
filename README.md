@@ -244,3 +244,4 @@
 | [RemoteHunt](https://remotehunt.app/jobs) | Remote jobs listed by the countries they can hire in, from 2,400+ employer career pages. Browsing needs no account; a free account scores each job 0-100 against your resume. |
 | [Only Hiring](https://onlyhiring.hassandev.me/) | Reddit job posts where someone is hiring, with self-promotion and spam filtered out and a scam score on each job. Free, no account. |
 | [Remote Tech Jobs](https://github.com/landedjobs/remote-tech-jobs) | Free list of remote software, AI, data, product and design roles, with each role's country limits shown. Refreshed every 2 days. |
+| [ApplyRemote](https://applyremote.co/) | Remote job board with openings from companies hiring worldwide, browsable by category and country. Job search is free; CV builder and cover letters are paid extras. |
