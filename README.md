@@ -242,3 +242,4 @@
 | [Get HN Jobs](https://gethnjobs.com/remote-hacker-news-jobs) | Remote jobs from Hacker News "Who is hiring?" threads, with stack, role and location filters, links to the original HN posts and daily email alerts. Free, no account needed to search. |
 | [DMtheFounder](https://dmthefounder.com/) | Free board of early engineering and founding roles, including remote, posted by startup founders on X and Hacker News. |
 | [RemoteHunt](https://remotehunt.app/jobs) | Remote jobs listed by the countries they can hire in, from 2,400+ employer career pages. Browsing needs no account; a free account scores each job 0-100 against your resume. |
+| [Only Hiring](https://onlyhiring.hassandev.me/) | Reddit job posts where someone is hiring, with self-promotion and spam filtered out and a scam score on each job. Free, no account. |
