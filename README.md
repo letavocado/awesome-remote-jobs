@@ -247,3 +247,4 @@
 | [Remote Tech Jobs](https://github.com/landedjobs/remote-tech-jobs) | Free list of remote software, AI, data, product and design roles, with each role's country limits shown. Refreshed every 2 days. |
 | [ApplyRemote](https://applyremote.co/) | Remote job board with openings from companies hiring worldwide, browsable by category and country. Job search is free; CV builder and cover letters are paid extras. |
 | [Aworkado](https://aworkado.co/) | Remote-only jobs aggregated daily from company Greenhouse, Lever, Ashby and SmartRecruiters boards, filterable by job function and location. Free, no account. |
+| [chainjobs](https://chainjobs.app/) | Free Web3 and freelance job board: clients post jobs, freelancers offer services and apply, and both chat directly. Payment in crypto or bank transfer, 0% platform commission. Free to join. |
