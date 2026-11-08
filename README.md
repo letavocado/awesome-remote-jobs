@@ -199,6 +199,7 @@
 | [AI Trainer Jobs](https://aitrainer.jobs/) | Remote AI training jobs (data annotation, RLHF, prompt and model evaluation) aggregated from 60+ platforms, updated hourly. |
 | [Level](https://jobsbylevel.com/remote-ai-jobs) | Remote tech jobs read from company ATS career pages, each rated 0 to 4 for how much AI the work involves. Filters for roles that build or work on AI, with posted salaries. |
 | [AI Gig Scout](https://aigigscout.com) | Free directory of remote AI training, evaluation, data and expert gigs from Micro1, Mercor, SME Careers, Sovrano AI, Ethos AI, AfterQuery and more. Filter by platform, pay and eligibility, then apply on the original platform. No account needed. |
+| [CookLLM AI job board](https://cookllm.com/en/jobs/board) | Free board of 20,000+ open AI roles at 1,300+ AI companies, read from their career pages every 6 hours, with remote and visa sponsorship filters. No sign-up. |
 
 ## Design
 
