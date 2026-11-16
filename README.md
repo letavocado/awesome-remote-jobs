@@ -49,6 +49,7 @@
   - [Wellfound (formerly AngelList Talent)](https://wellfound.com/jobs)
   - [Startu Jobs](https://startup.jobs/)
   - [Indeed.com](https://www.indeed.com/)
+  - [openradar](https://openradar.fun/)
   - [4dayweek](https://4dayweek.io/)
   - [Arc.dev](https://arc.dev/)
   - [remote.io](https://www.remote.io/)
