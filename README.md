@@ -247,3 +247,4 @@
 | [Remote Tech Jobs](https://github.com/landedjobs/remote-tech-jobs) | Free list of remote software, AI, data, product and design roles, with each role's country limits shown. Refreshed every 2 days. |
 | [ApplyRemote](https://applyremote.co/) | Remote job board with openings from companies hiring worldwide, browsable by category and country. Job search is free; CV builder and cover letters are paid extras. |
 | [Aworkado](https://aworkado.co/) | Remote-only jobs aggregated daily from company Greenhouse, Lever, Ashby and SmartRecruiters boards, filterable by job function and location. Free, no account. |
+| [NodJobs](https://nodjobs.com/) | Free remote jobs for job seekers in the US, browsable by role. Every listing is rechecked around the clock and taken down once the company closes it. Most show the pay range, every Apply goes to the company's own page, and there is no signup. |
